@@ -567,3 +567,4 @@ Received Import Request.
   path: Assets/Sprites/Amogus (2).jpg
   artifactKey: Guid(aaa226e5c738ddb44b01474126333658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/Amogus (2).jpg using Guid(aaa226e5c738ddb44b01474126333658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '126e7ad2e084d8bfeb25dc64169e334b') in 0.011003 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
